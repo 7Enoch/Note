@@ -27,3 +27,7 @@ git push origin test 将当前本地的分支更新到远程test分支
 git pull将远程分支更新到与本地对应的分支
 
 git push将本地分支推送到远程对应的分支
+
+git add . 添加所有文件到暂存区
+
+git commit -m "备注"  提交文件到本地仓库
