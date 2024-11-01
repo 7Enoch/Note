@@ -10,7 +10,7 @@ git config --global http.proxy http://127.0.0.1:7890 设置http代理
 
 git config --global http.proxy https://127.0.0.1:7890设置https代理
 
-git branch -r 查看本地分支 
+git branch -r 查看本地分支
 
 当前是在main分支
 
@@ -31,3 +31,30 @@ git push将本地分支推送到远程对应的分支
 git add . 添加所有文件到暂存区
 
 git commit -m "备注"  提交文件到本地仓库
+
+
+
+
+
+基本操作
+
+git clone 一个仓库过后 先绑定分支 
+
+//远程有两个分支 一个是main 一个是develop分支
+
+git checkout -b develop origin/develop 创建并绑定分支 （验证）*
+
+git branch 查看本地分支
+
+git branch -vv 查看本地与远程分支的对应关系
+
+git checkout <本地分支名称> 切换分支
+
+git pull origin <当前所在分支>
+
+//写代码 更新文件
+
+
+
+
+
