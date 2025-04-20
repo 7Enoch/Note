@@ -1,3 +1,19 @@
+# 优点
+
+快速开发
+
+代码精简
+
+直观易读
+
+功能强大
+
+
+
+
+
+
+
 # 主题
 
 首先在直接创建的compose项目下面存在theme文件夹，文件目录如下
@@ -393,7 +409,7 @@ private fun getWellnessTasks() = List(30) { i -> WellnessTask(i, "Task # $i") }
 
 ## Row
 
-独占一行
+独占一行，子元素横向排列
 
 ## Column
 
@@ -546,3 +562,9 @@ class ItemFragment : Fragment() {
 
 
 # Room
+
+
+
+
+
+# Hint
