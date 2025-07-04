@@ -2,11 +2,11 @@
 
 `文字描边功能`： 检查器----->Theme overrides ------>colors 修改文字描边颜色    constants 修改文字描边像素大小
 
-![image-20250619222231486](./Godot.assets/image-20250619222231486.png)
+![image-20250619222231486](./assets/Godot/image-20250619222231486.png)
 
 `AnimatedSprite2D 修改缩放大小` ：检查器 ---> Transform ----> Scale 修改缩放比例
 
-![image-20250619222950793](./Godot.assets/image-20250619222950793.png)
+![image-20250619222950793](./assets/Godot/image-20250619222950793.png)
 
 
 
